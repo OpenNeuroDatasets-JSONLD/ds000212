@@ -1,9 +1,9 @@
 onset	duration	condition	item	key	RT
-[7]	7	belief_rep	0	2	2.083
-[20]	7	photo_rep	0	2	2.106
-[33]	7	belief_rep	0	1	1.25
-[46]	7	belief_real	0	1	2.315
-[59]	7	belief_real	0	2	2.996
-[72]	7	belief_rep	0	2	2.395
-[85]	7	photo_rep	0	2	2.209
-[98]	7	belief_real	0	2	2.05
+14	14	belief_rep	0	2	2.083
+40	14	photo_rep	0	2	2.106
+66	14	belief_rep	0	1	1.25
+92	14	belief_real	0	1	2.315
+118	14	belief_real	0	2	2.996
+144	14	belief_rep	0	2	2.395
+170	14	photo_rep	0	2	2.209
+196	14	belief_real	0	2	2.05
