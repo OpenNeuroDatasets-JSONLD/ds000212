@@ -1,0 +1,14 @@
+{
+  "RepetitionTime": 2,
+  "MagneticFieldStrength": 3,
+  "SequenceVariant": "SK",
+  "FlipAngle": 90,
+  "MRAcquisitionType": "2D",
+  "ScanOptions": "FS",
+  "SequenceName": "epfid2d1_64",
+  "ManufacturerModelName": "TrioTim",
+  "TaskName": "fb",
+  "ScanningSequence": "EP",
+  "Manufacturer": "SIEMENS",
+  "CogAtlasID": "http://www.cognitiveatlas.org/term/id/trm_5845a809e30d5"
+}
